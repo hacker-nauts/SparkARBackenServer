@@ -1,0 +1,24 @@
+{
+  "name": "sparkarbackenserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hacker-nauts/SparkARBackenServer.git"
+  },
+  "author": "Taimoor Khan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hacker-nauts/SparkARBackenServer/issues"
+  },
+  "homepage": "https://github.com/hacker-nauts/SparkARBackenServer#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^12.10.0",
+    "nodemon": "^1.19.2"
+  }
+}
